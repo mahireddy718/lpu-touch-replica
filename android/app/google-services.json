@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637656834263",
+    "project_id": "lpu-touch-36da9",
+    "storage_bucket": "lpu-touch-36da9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637656834263:android:2e6b766e47e463b1ac1092",
+        "android_client_info": {
+          "package_name": "com.example.lpu_touch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGRov7rVhU5Wwxiyp6RuEQNO8kvvuTETQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
